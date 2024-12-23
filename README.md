@@ -1,1 +1,1 @@
-# eks_project
+# eks_project_kanya
